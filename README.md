@@ -1,4 +1,4 @@
-# Quantitative Researcher | Financial Engineering | Bayesian Statistics
+# Quant | Financial Engineering | Bayesian Statistics
 
 Hi, I'm Masataka Hayashi! I'm a quantitative finance student with a background in
 probability theory and optimization, and a Bayesian enthusiast. Currently, I am
